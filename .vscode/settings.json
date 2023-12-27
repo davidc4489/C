@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "sort012array.h": "c",
-        "biggestfromarray.h": "c"
+        "biggestfromarray.h": "c",
+        "biggestonrightside.h": "c"
     }
 }
